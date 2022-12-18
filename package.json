@@ -4,8 +4,7 @@
   "description": "Generate images using OpenAI",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "dev": "nodemon dev.js"
   },
   "keywords": [],
   "author": "Nicholas Otieno",

@@ -23,7 +23,7 @@ npm install
 Run server
 
 ```bash
-npm start
+npm run dev
 ```
 
 The endpoint is at `POST http://localhost:3000/openai/generateimage`.
