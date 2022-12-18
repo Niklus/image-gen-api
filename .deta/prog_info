@@ -1,0 +1,1 @@
+{"id":"c906eafb-5ba7-4637-b7a6-05c30f25680b","space":34561,"runtime":"nodejs14.x","name":"image-gen","path":"5jn7an","project":"a023stxk","account":"144798365827","region":"eu-central-1","deps":["express@^4.18.2","openai@^3.1.0","cors@^2.8.5"],"envs":null,"public":true,"log_level":"debug","cron":""}
