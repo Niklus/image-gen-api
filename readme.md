@@ -12,8 +12,6 @@ Generate an API KEY at [OpenAI](https://beta.openai.com/) and add a new controll
 }
 ```
 
-Change cors options in the index.js file to your allowed origins
-
 Install the dependencies
 
 ```bash
